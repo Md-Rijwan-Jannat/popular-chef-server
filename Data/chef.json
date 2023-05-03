@@ -2,7 +2,7 @@
   {
     "_id": 1,
     "chef_name": "Gordon Ramsay",
-    "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+    "chef_picture": "https://media.istockphoto.com/id/1155020587/photo/making-sushi.jpg?s=612x612&w=0&k=20&c=3qgHbutRT8yzajkYm6Klv_ys-1RWnza-vvbjpOEgAC8=",
     "bio": "Gordon James Ramsay Jr. OBE is a British chef, restaurateur, writer and television personality. He was born in Johnstone, Scotland, and raised in Stratford-upon-Avon, England. His restaurants have been awarded 16 Michelin stars in total.",
     "likes": 10000,
     "recipes_number": 250,
@@ -10,7 +10,7 @@
     "recipes": [
       {
         "id": 1,
-        "recipe_name": "Beef Wellington",
+        "recipe_name": "Beef Wellington1",
         "ingredients": ["Beef fillet", "Puff pastry", "Mushrooms", "Parma ham", "Mustard"],
         "cooking_method": "Preheat oven to 200C. Season the beef with salt and pepper. Sear the beef in a hot pan with oil for 1-2 minutes on each side. Wrap the beef in parma ham and mushrooms. Roll out the puff pastry and wrap the beef. Brush with egg wash and bake for 20-25 minutes. Let rest for 10 minutes before slicing.",
         "rating": 4.8,
@@ -37,7 +37,7 @@
   {
     "_id": 2,
     "chef_name": "Jamie Oliver",
-    "chef_picture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
+    "chef_picture": "https://www.japan-experience.com/sites/default/files/styles/scale_crop_380x278/public/legacy/japan_experience/1493390291122.jpg?h=1c280cfc&itok=LkK3C07O",
     "bio": "James Trevor Oliver MBE is a British chef and restaurateur. He is known for his approachable cuisine, which has led him to front numerous television shows and open many restaurants. He has written over 30 cookbooks and is estimated to be worth £240 million.",
     "likes": 8000,
     "recipes_number": 200,
@@ -45,7 +45,7 @@
     "recipes": [
       {
         "id": 1,
-        "recipe_name": "Beef Wellington",
+        "recipe_name": "Beef Wellington2",
         "ingredients": ["Beef fillet", "Puff pastry", "Mushrooms", "Parma ham", "Mustard"],
         "cooking_method": "Preheat oven to 200C. Season the beef with salt and pepper. Sear the beef in a hot pan with oil for 1-2 minutes on each side. Wrap the beef in parma ham and mushrooms. Roll out the puff pastry and wrap the beef. Brush with egg wash and bake for 20-25 minutes. Let rest for 10 minutes before slicing.",
         "rating": 4.8,
@@ -72,7 +72,7 @@
   {
     "_id": 3,
     "chef_name": "Gordon Ramsay",
-    "chef_picture": "https://st.depositphotos.com/1246892/2449/i/950/depositphotos_24496199-stock-photo-a-male-chef.jpg",
+    "chef_picture": "https://previews.123rf.com/images/upslim/upslim1601/upslim160100158/52343898-smiling-asian-chef-with-sushi-focus-on-sushi.jpg",
     "bio": "Gordon James Ramsay Jr. OBE is a British chef, restaurateur, writer and television personality. He was born in Johnstone, Scotland, and raised in Stratford-upon-Avon, England. His restaurants have been awarded 16 Michelin stars in total.",
     "likes": 10000,
     "recipes_number": 250,
@@ -107,7 +107,7 @@
   {
     "_id": 4,
     "chef_name": "Jamie Oliver",
-    "chef_picture": "https://st2.depositphotos.com/1518767/11292/i/950/depositphotos_112927160-stock-photo-chef-standing-with-arms-crossed.jpg",
+    "chef_picture": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Z2w_Geo41kh02VVSRjZ_sF6kUVw=/1660x934/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/ZXNCFZQSFRBJBH6E2I367QNQTA.jpg",
     "bio": "James Trevor Oliver MBE is a British chef and restaurateur. He is known for his approachable cuisine, which has led him to front numerous television shows and open many restaurants. He has written over 30 cookbooks and is estimated to be worth £240 million.",
     "likes": 8000,
     "recipes_number": 200,
@@ -142,7 +142,7 @@
   {
     "_id": 5,
     "chef_name": "Gordon Ramsay",
-    "chef_picture": "https://thumbs.dreamstime.com/z/chef-35582114.jpg",
+    "chef_picture": "https://previews.123rf.com/images/lestertair/lestertair1311/lestertair131101142/23961303-japanese-chef-preparing-a-meal-in-a-restaurant.jpg",
     "bio": "Gordon James Ramsay Jr. OBE is a British chef, restaurateur, writer and television personality. He was born in Johnstone, Scotland, and raised in Stratford-upon-Avon, England. His restaurants have been awarded 16 Michelin stars in total.",
     "likes": 10000,
     "recipes_number": 250,
@@ -177,7 +177,7 @@
   {
     "_id": 6,
     "chef_name": "Jamie Oliver",
-    "chef_picture": "https://previews.123rf.com/images/stockyimages/stockyimages1308/stockyimages130800616/21350157-charming-young-male-chef-in-white-uniform.jpg",
+    "chef_picture": "https://img.freepik.com/free-photo/happy-cook-smelling-salad-with-meat-plate_23-2148040176.jpg?w=2000",
     "bio": "James Trevor Oliver MBE is a British chef and restaurateur. He is known for his approachable cuisine, which has led him to front numerous television shows and open many restaurants. He has written over 30 cookbooks and is estimated to be worth £240 million.",
     "likes": 8000,
     "recipes_number": 200,
