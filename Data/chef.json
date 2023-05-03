@@ -10,7 +10,7 @@
     "recipes": [
       {
         "id": 1,
-        "recipe_name": "Beef Wellington1",
+        "recipe_name": "Beef Wellington",
         "ingredients": ["Beef fillet", "Puff pastry", "Mushrooms", "Parma ham", "Mustard"],
         "cooking_method": "Preheat oven to 200C. Season the beef with salt and pepper. Sear the beef in a hot pan with oil for 1-2 minutes on each side. Wrap the beef in parma ham and mushrooms. Roll out the puff pastry and wrap the beef. Brush with egg wash and bake for 20-25 minutes. Let rest for 10 minutes before slicing.",
         "rating": 4.8,
